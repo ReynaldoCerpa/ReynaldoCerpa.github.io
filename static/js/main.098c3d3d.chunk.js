@@ -1,0 +1,2 @@
+(this["webpackJsonprey-portfolio"]=this["webpackJsonprey-portfolio"]||[]).push([[0],{13:function(t,e,c){},15:function(t,e,c){"use strict";c.r(e);var n=c(0),r=c.n(n),o=c(7),i=c.n(o),s=(c(13),c(8)),a=c(1),j=c(3);var p=function(){return Object(j.jsx)(s.a,{children:Object(j.jsx)(a.c,{children:Object(j.jsx)(a.a,{exact:!0,path:"/"})})})};i.a.render(Object(j.jsx)(r.a.StrictMode,{children:Object(j.jsx)(p,{})}),document.getElementById("root"))}},[[15,1,2]]]);
+//# sourceMappingURL=main.098c3d3d.chunk.js.map
