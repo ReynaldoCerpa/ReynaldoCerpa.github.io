@@ -1,11 +1,18 @@
 import { useState, useEffect } from "react";
+import Navbar from "../components/Navbar/Navbar";
+import Home from "./Home/Home";
+import Projects from "./Projects/Projects";
+import Skills from "./Skills/Skills";
 
 const Landing = () => {
 
     return (
-        <div style={{display: "flex", justifyContent: "center"}}>
-            <h1>Coming soon...</h1>
-        </div>
+        <>
+            <Navbar />
+            <Home />
+            <Skills />
+            <Projects />
+        </>
     )
 }
 
