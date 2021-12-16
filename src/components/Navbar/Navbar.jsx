@@ -8,13 +8,16 @@ const Navbar = () => {
                 <nav class="nav">
                     <ul class="nav-list">
                         <li class="nav-item">
-                            <Link className="link" to="/">HOME</Link>
+                            <a className="link" href="#home-page">HOME</a>
                         </li>
                         <li class="nav-item">
                             <a className="link" href="#skills-page">SKILLS</a>
                         </li>
                         <li class="nav-item">
-                            <Link className="link" to="/contact">CONTACT ME</Link>
+                            <a className="link" href="#projects-page">PROJECTS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a className="link" href="#contact-page">CONTACT ME</a>
                         </li>
                     </ul>
                 </nav>
