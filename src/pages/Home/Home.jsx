@@ -7,8 +7,8 @@ const Home = () => {
             <div className='home-container'>
                 <Spacer id="home-page" />
                 <h3>Reynaldo Cerpa</h3>
-                <h1>Software Engineer</h1>
-                <p>Over the last year i've been involved in school projects having fun and learning a lot!</p>
+                <h1>Software Developer</h1>
+                <p>Im a software engineering student, focused on fullstack web development and currently working in Dinamismo digital.</p>
             </div>
         </>
     )
